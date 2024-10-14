@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <title>"Pàgina de noticies ITIC"</title>
+    <style>
+         h1 {
+            text-align: center; /* Centramos el texto */
+            color: #007bff; /* Cambiamos el color del texto a un tono verde */
+        }
+        h2 {
+            background-color: rgba(0, 128, 255, 0.3); /* Color de fondo azul claro con opacidad */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Daniel Carvajal se lesiona</h1>
+    </header>
+
+    <!-- Notícia principal -->
+    <section>
+        <h2>El capitán del equipo blanco se lesionó el otro dia frente al Villareal</h2>
+        <p>
+            Daniel Carvajal cayó lesionado tras sufrir molestias durante su partido de la liga frente al Villareal, el jugador tuvo que 
+            retirarse del partido sin poder terminarlo. Al parecer el jugador se ha roto el ligamento colateral externo y también tiene una 
+            rotura del tendón poplíteo en su pierna derecha con lo cual tendrá que pasar por el quirófano.
+        </p>
+
+        <!-- Imatge relacionada amb la notícia -->
+        <img src="Daniel-Carvajal.webp">
+
+        <!-- Fonts de la notícia -->
+        <h3>Fonts:</h3>
+        <p>
+            <li><a href="https://www.dazn.com/es-ES/news/f%C3%BAtbol/dani-carvajal-lesionado-que-pasa-lesion-tiene-cuanto-tiempo-estara-baja-partidos-pierde/y74er9721p7a1bytljxmuf1pq">DAZN</a></li>       
+        </p>
+        <p>
+            <li><a href="https://as.com/futbol/primera/carvajal-en-camilla-y-llorando-el-madrid-teme-una-lesion-grave-n/">DIARIO AS</a></li>       
+        </p>
+    </section>
+
+    <!-- Altres notícies d'interès -->
+    <section>
+        <h2>Altres notícies d'interès</h2>
+        <ul>
+            <li><a href="https://as.com/futbol/primera/las-palmas-no-gana-ni-contra-11-ni-contra-10-ni-contra-9-n/">Las Palmas no gana ni contra 11, ni contra 10 ni contra 9</a></li>
+            <li><a href="https://as.com/futbol/segunda/el-granada-no-falla-en-su-cita-con-el-gol-n/">El Granada no falla en su cita con el gol</a></li>
+            <li><a href= "https://as.com/futbol/internacional/pogba-reunion-de-urgencia-con-la-juve-n/">Pogba, reunión de urgencia con la Juve</a></li>
+            <li><a href= "Horari.html">Horari</a></li>
+
+        </ul>
+    </section>
+    <!-- Llista de definició -->
+    <section>
+        <h2>Glosario</h2>
+        <dl>
+            <dt>La liga: Máxima categoria masculina de sistema de ligas de fútbol y una de las principales competiciones del país</dt>            
+    </section>
+</body>
+</html>

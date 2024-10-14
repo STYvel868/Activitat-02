@@ -1,0 +1,41 @@
+table,th,td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+h1{
+    text-align: center;
+    color:blue
+}
+caption{
+    font-size: 25px;
+    color: blueviolet;
+}
+th{
+    background-color: aquamarine;
+    text-align: center;
+}
+.LMSGI{
+    background-color: bisque;
+}
+.BD{
+    background-color: chocolate;
+}
+.PED{
+    background-color: chartreuse;
+}
+.SI{
+    background-color: crimson;
+}
+.IPOI{
+    background-color: aqua;
+}
+.TUT{
+    background-color: blueviolet;
+}
+.ANG{
+    background-color: darkgoldenrod;
+}
+.DIW{
+    background-color: blue;
+}
+
