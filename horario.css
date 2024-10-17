@@ -1,3 +1,6 @@
+body {
+    font-family: Verdana, sans-serif; /* Aplica Verdana a todo el texto de la página */
+}
 table,th,td{
     border: 1px solid #000;
     border-collapse: collapse;
@@ -11,31 +14,68 @@ caption{
     color: blueviolet;
 }
 th{
+    font-size: 25px;  /* Mida de la lletra a 25px */
+    padding: 30px;
     background-color: aquamarine;
     text-align: center;
 }
 .LMSGI{
+    text-align: center;
+    font-size: 25px;  /* Mida de la lletra a 25px */
+    padding: 30px;
     background-color: bisque;
 }
 .BD{
+    text-align: center;
+    font-size: 25px;  /* Mida de la lletra a 25px */
+    padding: 30px;
     background-color: chocolate;
 }
 .PED{
+    text-align: center;
+    font-size: 25px;  /* Mida de la lletra a 25px */
+    padding: 30px;
     background-color: chartreuse;
 }
 .SI{
+    text-align: center;
+    font-size: 25px;  /* Mida de la lletra a 25px */
+    padding: 30px;
     background-color: crimson;
 }
 .IPOI{
+    text-align: center;
+    font-size: 25px;  /* Mida de la lletra a 25px */
+    padding: 30px;
     background-color: aqua;
 }
 .TUT{
+    text-align: center;
+    font-size: 25px;  /* Mida de la lletra a 25px */
+    padding: 30px;
     background-color: blueviolet;
 }
 .ANG{
+    text-align: center;
+    font-size: 25px;  /* Mida de la lletra a 25px */
+    padding: 30px;
     background-color: darkgoldenrod;
 }
 .DIW{
+    text-align: center;
+    font-size: 25px;  /* Mida de la lletra a 25px */
+    padding: 30px;
     background-color: blue;
 }
-
+.DESCANS{
+    text-align: center;
+    font-size: 25px;  /* Mida de la lletra a 25px */
+    padding: 30px;
+    font-size: 20px;
+    padding: 15px;   
+}
+.hores{
+    font-size: 20px;  
+    padding: 10px;    
+    width: 180px;  
+}
